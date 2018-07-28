@@ -1,0 +1,10 @@
+/Users/slavinson/Development/webappdemo/bin/Debug/netcoreapp2.0/webappdemo.deps.json
+/Users/slavinson/Development/webappdemo/bin/Debug/netcoreapp2.0/webappdemo.runtimeconfig.json
+/Users/slavinson/Development/webappdemo/bin/Debug/netcoreapp2.0/webappdemo.runtimeconfig.dev.json
+/Users/slavinson/Development/webappdemo/bin/Debug/netcoreapp2.0/webappdemo.dll
+/Users/slavinson/Development/webappdemo/bin/Debug/netcoreapp2.0/webappdemo.pdb
+/Users/slavinson/Development/webappdemo/obj/Debug/netcoreapp2.0/webappdemo.csproj.CoreCompileInputs.cache
+/Users/slavinson/Development/webappdemo/obj/Debug/netcoreapp2.0/webappdemo.AssemblyInfoInputs.cache
+/Users/slavinson/Development/webappdemo/obj/Debug/netcoreapp2.0/webappdemo.AssemblyInfo.cs
+/Users/slavinson/Development/webappdemo/obj/Debug/netcoreapp2.0/webappdemo.dll
+/Users/slavinson/Development/webappdemo/obj/Debug/netcoreapp2.0/webappdemo.pdb
